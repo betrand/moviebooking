@@ -1,0 +1,19 @@
+[{
+  "movieName": "Spiderman",
+  "availableSeats": 5,
+  "pricePerSeat": 20.00,
+  "taxPercentagePerSeat": 15.00
+},
+{
+"movieName": "Titanic",
+"availableSeats": 8,
+"pricePerSeat": 10.00,
+"taxPercentagePerSeat": 20.00
+},
+{
+"movieName": "Ironman",
+"availableSeats": 12,
+"pricePerSeat": 25.00,
+"taxPercentagePerSeat": 10.00
+}
+  ]
